@@ -29,7 +29,7 @@ public class AppAutomovil {
         }
 
         public static void main(String[] args) {
-            Automovil auto = new Automovil(20,10);
+            Automovil auto = new AppAutomovil(20,10);
             float distancia = auto.calcularDistancia;
 
             System.out.println("la distancia recorrida es" + distancia + "metros");

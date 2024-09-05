@@ -1,4 +1,5 @@
 ./miPrincipal/AppAutomovil.java
 ./miPrincipal/Principal.java
 ./miPrincipal/AppCalculadora.java
+./miPrincipal/AppEstudiante.java
 ./miTest/AppTest.java
