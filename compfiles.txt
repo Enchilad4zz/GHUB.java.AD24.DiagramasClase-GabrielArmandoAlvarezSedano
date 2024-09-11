@@ -1,3 +1,4 @@
+./miPrincipal/Concursante.java
 ./miPrincipal/AppAutomovil.java
 ./miPrincipal/Principal.java
 ./miPrincipal/AppCalculadora.java

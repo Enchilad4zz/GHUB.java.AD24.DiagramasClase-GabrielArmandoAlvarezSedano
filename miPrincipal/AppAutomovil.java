@@ -5,7 +5,7 @@ public class AppAutomovil {
     private float velocidad;
     private float tiempo;
 
-    public AppAutomovil (float velocidad, float tiempo){
+    public Automovil (float velocidad, float tiempo){
     this.tiempo = tiempo;
     this.velocidad = velocidad;
     }
